@@ -28,6 +28,9 @@ The repository contains a placeholder for documentation.
 ##Instruction
 Input instruction
 
+##Contributing guide
+Input Contributing guide
+
 ---
 
 ## Files Used
