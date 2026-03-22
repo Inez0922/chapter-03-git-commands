@@ -19,6 +19,9 @@ AI in Software Engineering – Practical Coursework
 ##Introduction
  Input introduction...
 
+##Background
+Input Background
+
 ## Description
 This project is part of the *AI in Software Engineering* module at **Xi’an Jiaotong-Liverpool University (XJTLU)**.  
 The project aims to apply artificial intelligence techniques within a software engineering context, focusing on practical implementation, experimentation, and version control using Git and GitHub.
