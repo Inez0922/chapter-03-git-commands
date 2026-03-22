@@ -28,6 +28,7 @@ The project aims to apply artificial intelligence techniques within a software e
 
 The repository contains a placeholder for documentation.
 
+<<<<<<< HEAD
 ##Example
 Input example
 
@@ -36,6 +37,11 @@ Input instruction
 
 ##Contributing guide
 Input Contributing guide
+
+##Change1
+##Change2
+=======
+>>>>>>> refactoring
 
 ---
 
